@@ -1,1 +1,1 @@
-Today Learning
+Daily Learning App
